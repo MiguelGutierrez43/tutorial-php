@@ -8,7 +8,7 @@ function bienvenida(){
 
 bienvenida();
 
-echo '<br><br>'
+echo '<br><br>';
 
 //Funcion con parametro
 
